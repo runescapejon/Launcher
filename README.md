@@ -1,1 +1,1 @@
-# Launcher
+This is a decompile of my fork from aether launcher. Within the license it does state that it has to be open source and it's something i didn't know. I had lost the actual source because of my hard drive corruption. Here a decompile jar of it. However you can grab a compile jar over at moddednetwork.com and you can do a better job at it sorry.. this is just to comply with the license and i wont be provide any support towards this. Please be advised that Aether launcher project is under LGPL https://gitea.gildedgames.com/GildedGames/Aether-Launcher
